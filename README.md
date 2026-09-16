@@ -32,16 +32,18 @@ A lot is still being researched, implemented and improved.
 
 ## Screenshots
 
-> More screenshots will be added as development progresses.
-
 <p align="center">
-  <img src="screenshots/login.png" width="49%" />
-  <img src="screenshots/lobby.png" width="49%" />
+  <img src="https://i.ibb.co/jvhv4Nvn/image.png" width="49%" />
+  <img src="https://i.ibb.co/N6678KpD/image.png" width="49%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/profile.png" width="49%" />
-  <img src="screenshots/game.png" width="49%" />
+  <img src="https://i.ibb.co/jvfBPnWZ/image.png" width="49%" />
+  <img src="https://i.ibb.co/PzFNrRrW/image.png" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/5W30NHSW/image.png" width="75%" />
 </p>
 
 ---
