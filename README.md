@@ -45,6 +45,9 @@ A lot is still being researched, implemented and improved.
 <p align="center">
   <img src="https://i.ibb.co/5W30NHSW/image.png" width="75%" />
 </p>
+<p align="center">
+  <img src="https://ibb.co.com/QFgDNTjV/image.png" width="75%" />
+</p>
 
 ---
 
