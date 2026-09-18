@@ -19,10 +19,6 @@ Reimplementation of the backend and networking stack for legacy **Critical Ops (
 |  |  | 
 |  |  | 
 
-## Feature Progress
-
-> Обновляй статус по мере готовности: `[x]` готово, `[ ]` в планах.
-
 ### Authentication & Core API
 
 * \[x\] Base HTTP/REST Webserver
@@ -82,14 +78,6 @@ Reimplementation of the backend and networking stack for legacy **Critical Ops (
 * \[ \] Round start/end lifecycle & score sync
 
 * \[ \] Anti-cheat & integrity validation
-
-## Tech Stack
-
-* **Language / Runtime:** C# (.NET) / Node.js / Go / Python
-
-* **Database:** PostgreSQL / SQLite / MongoDB
-
-* **Protocols:** HTTP/HTTPS, Raw UDP / Photon Serialization
 
 ## Disclaimer
 
