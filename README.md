@@ -4,20 +4,20 @@ Reimplementation of the backend and networking stack for legacy **Critical Ops (
 
 ### Project Specs
 
-| 
-
-| **Parameter** | **Details** | 
-| **Target Client** | `1.30.0f1696` (Android) | 
-| **Status** | Active Research & Development | 
-| **Network Architecture** | Custom HTTP REST API + Realtime UDP / Lobby | 
-| **Goal** | Preservation, packet research & full self-hosted multiplayer | 
+| **Parameter** | **Details** |
+| :--- | :--- |
+| **Target Client** | `1.30.0f1696` (Android) |
+| **Status** | Active Research & Development |
+| **Network Architecture** | Custom HTTP REST API + Realtime UDP / Lobby |
+| **Goal** | Preservation, packet research & full self-hosted multiplayer |
 
 ## Media & Progress
 
-| **In-Game Preview** | **In-Game Preview** | 
-|  |  | 
-|  |  | 
-|  |  | 
+| Preview | Preview |
+| :---: | :---: |
+| <img src="https://i.ibb.co/jvhv4Nvn/image.png" width="100%"> | <img src="https://i.ibb.co/N6678KpD/image.png" width="100%"> |
+| <img src="https://i.ibb.co/jvfBPnWZ/image.png" width="100%"> | <img src="https://i.ibb.co/PzFNrRrW/image.png" width="100%"> |
+| <img src="https://i.ibb.co/5W30NHSW/image.png" width="100%"> | <img src="https://i.ibb.co/QFgDNTjV/image.png" width="100%"> |
 
 ## Disclaimer
 
