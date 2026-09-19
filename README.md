@@ -7,9 +7,7 @@ Reimplementation of the backend and networking stack for legacy **Critical Ops (
 | **Parameter** | **Details** |
 | :--- | :--- |
 | **Target Client** | `1.30.0f1696` (Android) |
-| **Status** | Active Research & Development |
-| **Network Architecture** | Custom HTTP REST API + Realtime UDP / Lobby |
-| **Goal** | Preservation, packet research & full self-hosted multiplayer |
+| **Status** | Active Development |
 
 ## Media & Progress
 
