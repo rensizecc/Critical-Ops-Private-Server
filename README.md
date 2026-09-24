@@ -19,9 +19,8 @@ Reimplementation of the backend and networking stack for legacy **Critical Ops (
 | <img src="https://i.ibb.co/pBQXBdY9/image.png" width="100%"> | <img src="https://i.ibb.co/d4d5y14Z/image.png" width="100%"> |
 | <img src="https://i.ibb.co/PsPNh7mX/image.png" width="100%"> | <img src="https://i.ibb.co/1YXsGffF/image.png" width="100%"> |
 
-| Gameplay Preview Video |
-| :---: |
-| <video src="[[data/sync.mp4](https://github.com/user-attachments/assets/ee7132b2-8fea-4d29-8278-ba2b95f272b1)](https://github.com/rensizecc/Critical-Ops-Private-Server/raw/refs/heads/main/data/sync.mp4)" width="100%" controls autoplay loop muted></video> |
+# Gameplay Preview Video 
+https://github.com/user-attachments/assets/ee7132b2-8fea-4d29-8278-ba2b95f272b1
 
 ## Disclaimer
 
