@@ -19,7 +19,7 @@ Reimplementation of the backend and networking stack for legacy **Critical Ops (
 | <img src="https://i.ibb.co/pBQXBdY9/image.png" width="100%"> | <img src="https://i.ibb.co/d4d5y14Z/image.png" width="100%"> |
 | <img src="https://i.ibb.co/PsPNh7mX/image.png" width="100%"> | <img src="https://i.ibb.co/1YXsGffF/image.png" width="100%"> |
 
-| Preview Video |
+| Gameplay Preview Video |
 | :---: |
 | <video src="data/sync.mp4" width="100%" controls autoplay loop muted></video> |
 
