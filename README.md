@@ -21,7 +21,7 @@ Reimplementation of the backend and networking stack for legacy **Critical Ops (
 
 | Preview Video |
 | :---: |
-| |
+| <video src="data/sync.mp4" width="100%" controls autoplay loop muted></video> |
 
 ## Disclaimer
 
